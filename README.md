@@ -20,3 +20,7 @@ Tested: 1.8.8 - 1.17.1
 ### Matters need attention
 
 - If an issue is not edited according to the template or no log is provided when a bug is reported, the issue may be closed directly
+
+### The following features are in the works
+
+- GeyserMC Bedrock Player supports
