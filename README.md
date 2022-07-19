@@ -17,6 +17,11 @@ Tested: 1.8.8 - 1.17.1
 
 - **[MiraiMC](https://github.com/DreamVoid/MiraiMC/)** by DreamVoid
 
+### Receive Issues from the following versions
+
+- b5.x
+- b6
+
 ### Matters need attention
 
 - If an issue is not edited according to the template or no log is provided when a bug is reported, the issue may be closed directly
