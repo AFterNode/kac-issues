@@ -20,8 +20,8 @@ Tested: 1.8.8 - 1.17.1
 
 ### Receive Issues from the following versions
 
-- b5.x
 - b6
+- b7
 
 ### Matters need attention
 
